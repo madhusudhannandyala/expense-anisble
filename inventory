@@ -1,2 +1,6 @@
 [db]
 db.devopsandaws.online
+[backend]
+backend.devopsandaws.online
+[frontend]
+frontend.devopsandaws.online
