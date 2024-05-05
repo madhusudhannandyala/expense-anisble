@@ -62,3 +62,4 @@
       login_host: db.devopsandaws.online 
       target: /app/schema/backend.sql
       state: dump  
+      name: all
