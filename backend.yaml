@@ -61,5 +61,5 @@
       login_password: ExpenseApp@1
       login_host: db.devopsandaws.online 
       target: /app/schema/backend.sql
-      state: dump  
+      state: import  
       name: all
